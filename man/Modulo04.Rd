@@ -3,12 +3,12 @@
 \docType{data}
 \name{Modulo04}
 \alias{Modulo04}
-\title{Base de datos para trabajar con informacion socieconomica del Peru}
+\title{Modulo: Salud.}
 \format{Base de datos con la informacion de Salud.}
 \usage{
 data(Modulo04)
 }
 \description{
-Base de datos para trabajar con informacion socieconomica del Peru
+Modulo: Salud.
 }
 \keyword{datasets}

@@ -1,12 +1,13 @@
 Package: ENAHOR
 Type: Package
-Title: Asministra base de datos con informacion socieconomica del Peru creado por BEST
+Title: Administra base de datos con informacion socieconomica del Peru creado por BEST
 Version: 0.1.0
 Author: BEST (Behavioral Economics and Data Science Team)
         Arturo Chian
         Raul Panduro
 Maintainer: Arturo Chian <arturob.chian@gmail.com>
-Description: Paquete de R disenado para trabajar de forma sencilla con la informacion estadistica socieconomica del Peru
+            Raul Panduro <mesiaspch64@gmail.com>
+Description: Paquete de R disenado para trabajar de forma sencilla con la informacion estadistica socieconomica del Peru.
 License: MIT
 Encoding: UTF-8
 LazyData: true

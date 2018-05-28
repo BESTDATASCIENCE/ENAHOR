@@ -5,9 +5,9 @@
 
 NULL
 
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Caracteristicas de la Vivienda y del Hogar.
 #'
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Caracteristicas de la Vivienda y del Hogar.
 #'
 #' @docType data
 #' @keywords datasets
@@ -17,33 +17,33 @@ NULL
 #'
 NULL
 
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Caracteristicas de los Miembros del Hogar.
 #'
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Caracteristicas de los Miembros del Hogar.
 #'
 #' @docType data
 #' @keywords datasets
 #' @name Modulo02
 #' @usage data(Modulo02)
-#' @format Base de datos con la informacion de las Características de los Miembros del Hogar.
+#' @format Base de datos con la informacion de las Caracteriticas de los Miembros del Hogar.
 #'
 NULL
 
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Caracteristicas de Educacion.
 #'
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Caracteristicas de Educacion.
 #'
 #' @docType data
 #' @keywords datasets
 #' @name Modulo03
 #' @usage data(Modulo03)
-#' @format Base de datos con la informacion de las Características de Educación.
+#' @format Base de datos con la informacion de las Caracteristicas de Educacion.
 #'
 NULL
 
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Salud.
 #'
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Salud.
 #'
 #' @docType data
 #' @keywords datasets
@@ -53,9 +53,9 @@ NULL
 #'
 NULL
 
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Empleo e Ingresos.
 #'
-#' Base de datos para trabajar con informacion socieconomica del Peru
+#' Modulo: Empleo e Ingresos.
 #'
 #' @docType data
 #' @keywords datasets
