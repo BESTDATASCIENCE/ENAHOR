@@ -1,0 +1,29 @@
+navbar:
+  structure:
+    left:
+    - home
+    - intro
+    - reference
+    - articles
+    - tutorials
+    - news
+    right: github
+  components:
+    home:
+      icon: fa-home fa-lg
+      href: index.html
+    reference:
+      text: Reference
+      href: reference/index.html
+
+reference:
+- title: All functions
+  desc: ~
+  contents:
+  - '`ENAHOR`'
+  - '`Modulo01`'
+  - '`Modulo02`'
+  - '`Modulo03`'
+  - '`Modulo04`'
+  - '`Modulo05`'
+

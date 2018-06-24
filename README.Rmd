@@ -1,0 +1,32 @@
+---
+title: "Untitled"
+author: "Arturo Chang y Mesías Panduro"
+date: "24 de junio de 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## ENAHOR
+
+ENAHOR es un paquete diseñado para de manera sencilla con las bases de datos del INEI recogidos en la Encuesta COndición de Vida y Pobreza - ENAHO. Aprende a utilizarlo en ** vignette(ENAHOR)**.
+
+### Instalación
+
+```{r eval=FALSE}
+# Instala primero devtools.
+install.packages("devtools")
+
+# Instala la última versión usando.
+devtools::install_github("BESTDATASCIENCE/ENAHOR")
+```
+
+
+### Uso
+
+```{r }
+# Activa el paquete ENAHOR.
+library(ENAHOR)
+```

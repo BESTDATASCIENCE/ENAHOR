@@ -1,7 +1,8 @@
-#' Trabaja con mapas de Peru. Creado por BEST
+#' Trabaja con Información socioeconomica del Peru. Creado por BEST
 #'
 #' @name ENAHOR
 #' @docType package
+#' @author Arturo Chian y Raul Panduro
 
 NULL
 
